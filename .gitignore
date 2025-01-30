@@ -1,9 +1,10 @@
-# Local Files That Need to Be Ignored:
+# dBCooper2's Local Files That Need to Be Ignored:
 .venv/
-data-sources/
-notebooks/data/
 notes/
 hw/
+# THIS IS WHERE I AM KEEPING MY DATA, ADD YOUR FILES LIKE THIS
+data-sources/
+notebooks/data/
 
 
 # Byte-compiled / optimized / DLL files
