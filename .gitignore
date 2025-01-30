@@ -1,7 +1,7 @@
 # Local Files That Need to Be Ignored:
 .venv/
 data-sources/
-notebooks/
+notebooks/data/
 notes/
 hw/
 
