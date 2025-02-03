@@ -1,0 +1,7 @@
+# Packages to Install
+pandas
+polars
+pyarrow
+numpy
+nba_api
+tqdm
