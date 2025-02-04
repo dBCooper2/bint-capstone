@@ -66,6 +66,7 @@ For data visualizations we are looking at missingno to show NAs in data, and mat
     - QQ Plots
     - Distributions
     - ???
+- [ ] 1 SENTENCE EXPLANATION OF EACH VIZ, not needed for tables
 
 ## Slide Deck
 
