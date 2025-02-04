@@ -1,4 +1,5 @@
 # Packages to Install
+jupyter
 pandas
 polars
 pyarrow
