@@ -1,13 +1,30 @@
-# This is useful text...
+# Links to git commands
 
-## this is an h2 
+# Git .add
+Viewed documentation
+--
+link: https://git-scm.com/docs/git-add
 
-### h3
+- [ ] Viewed link
 
-- [ ] chrck
+# Git-commt
+Viewed documentation
+--
+link: https://git-scm.com/docs/git-commit 
 
-- 
-- 
-- 
-
-$$x$$
+- [ ] Viewed Link
+# Git Push
+Viewed documentation
+--
+link: https://git-scm.com/docs/git-push
+- [ ] Viewed link
+# Git branch
+Viewed documentation
+--
+link:https://git-scm.com/docs/git-branch
+- [ ] viewed link
+# Git checkout
+Viewed documentation
+--
+link: https://git-scm.com/docs/git-checkout
+- [ ] viewed link
