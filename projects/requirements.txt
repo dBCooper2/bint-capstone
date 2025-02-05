@@ -6,3 +6,6 @@ pyarrow
 numpy
 nba_api
 tqdm
+matplotlib
+seaborn
+missingno
