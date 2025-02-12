@@ -1,7 +1,12 @@
 # Packages to Install
+jupyter
 pandas
 polars
 pyarrow
 numpy
 nba_api
 tqdm
+matplotlib
+seaborn
+missingno
+openpyxl

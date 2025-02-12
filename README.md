@@ -32,7 +32,7 @@ source .venv/bin/activate
 Lastly, install the required packages for the Jupyter Notebooks:
 
 ```bash
-pip install projects/requirements.txt
+pip install -r projects/requirements.txt
 ```
 
 Now you should have a working project directory. If you need to install more packages or select a python kernel in VSCode, just make sure it is installing/selecting the `.venv` directory you created.
