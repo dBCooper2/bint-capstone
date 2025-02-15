@@ -1,12 +1,23 @@
 # Packages to Install
+
+# Required for Jupyter Notebooks
 jupyter
+
+# Data Collection
+nba_api
+
+# Data Analysis
 pandas
 polars
-pyarrow
 numpy
-nba_api
-tqdm
+pyarrow # required to convert between pandas and polars
+openpyxl # required to read/write from/to excel files
+jinja2 # Used for pandas styling
+
+# Plotting
 matplotlib
 seaborn
 missingno
-openpyxl
+
+# Quality-of-Life packages
+tqdm # progress bars for for loops
