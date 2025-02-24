@@ -12,6 +12,7 @@ polars
 numpy
 scipy # used for hypothesis testing
 statsmodels # used for t-stats and p-values
+scikit-posthocs # Posthoc testing for ANOVA
 pyarrow # required to convert between pandas and polars
 openpyxl # required to read/write from/to excel files
 jinja2 # Used for pandas styling
