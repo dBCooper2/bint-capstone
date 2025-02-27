@@ -8,6 +8,18 @@
 
 **Please make sure to edit the gitignore to contain your data files if they are saved in the repo on your local machine! Not doing this can break your ability to push changes due to the size of the data files, and we do not have LFS (Large File Sharing) set up!**
 
+## Data
+
+The data we are using is a collection of game data from swar's nba_api package. It can be loaded as a dataframe with the following code:
+
+```python
+file_id = '1U2UaHWRSkUXfJBn4kBHPYttd3dvw_CZF'
+url = f'https://drive.google.com/uc?id={file_id}'
+df = pd.read_csv(url, encoding='utf-8')
+```
+
+And the link to the CSV for direct download can be found [here](<https://drive.google.com/file/d/1U2UaHWRSkUXfJBn4kBHPYttd3dvw_CZF/view?usp=drive_link>)
+
 ## Using this repository
 
 To pull this repository down and start working with it, first clone the git repo with:
