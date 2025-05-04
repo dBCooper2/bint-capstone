@@ -3,16 +3,20 @@
 import streamlit as st
 
 # Title
-st.title('🌟 My First Streamlit App')
+st.title('NBA Win Prediction')
 
 # Header
-st.header('Welcome!')
+st.header('NBA Win Prediction')
 
 # Text
 st.write("This is a simple Streamlit app to get you started.")
 
 # Text input
 name = st.text_input("What's your name?")
+
+# Search for Columns in Data
+st.write("This is a simple Streamlit app to get you started.")
+search = st.text_input('Enter  Here')
 
 # Button
 if st.button('Greet Me'):
